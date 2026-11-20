@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/priyanka88876/LeetCode-DSA/tree/master/0010-regular-expression-matching) |
+| [0045-jump-game-ii](https://github.com/priyanka88876/LeetCode-DSA/tree/master/0045-jump-game-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/priyanka88876/LeetCode-DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/priyanka88876/LeetCode-DSA/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/priyanka88876/LeetCode-DSA/tree/master/0031-next-permutation) |
+| [0045-jump-game-ii](https://github.com/priyanka88876/LeetCode-DSA/tree/master/0045-jump-game-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/priyanka88876/LeetCode-DSA/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/priyanka88876/LeetCode-DSA/tree/master/0045-jump-game-ii) |
 ## Hash Table
 |  |
 | ------- |
