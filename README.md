@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/priyanka88876/LeetCode-DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/priyanka88876/LeetCode-DSA/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/priyanka88876/LeetCode-DSA/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/priyanka88876/LeetCode-DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0045-jump-game-ii](https://github.com/priyanka88876/LeetCode-DSA/tree/master/0045-jump-game-ii) |
 ## Two Pointers
 |  |
@@ -110,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/priyanka88876/LeetCode-DSA/tree/master/0020-valid-parentheses) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/priyanka88876/LeetCode-DSA/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
