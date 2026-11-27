@@ -19,10 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/priyanka88876/LeetCode-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/priyanka88876/LeetCode-DSA/tree/master/0020-valid-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/priyanka88876/LeetCode-DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/priyanka88876/LeetCode-DSA/tree/master/0032-longest-valid-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/priyanka88876/LeetCode-DSA/tree/master/0010-regular-expression-matching) |
+| [0032-longest-valid-parentheses](https://github.com/priyanka88876/LeetCode-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/priyanka88876/LeetCode-DSA/tree/master/0045-jump-game-ii) |
 ## Recursion
 |  |
@@ -108,10 +110,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/priyanka88876/LeetCode-DSA/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/priyanka88876/LeetCode-DSA/tree/master/0032-longest-valid-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/priyanka88876/LeetCode-DSA/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/priyanka88876/LeetCode-DSA/tree/master/0032-longest-valid-parentheses) |
 ## Binary Search
 |  |
 | ------- |
